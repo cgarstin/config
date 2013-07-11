@@ -1,6 +1,8 @@
 Configuration
 ======
 
+Setup for a new computer or corrupted HDD! Props to [this guy](https://github.com/jenius/config) and [this guy](https://github.com/samjbmason/config) for the idea.
+
 ## Sublime Text
 
 ### Appearance
