@@ -12,6 +12,7 @@ Setup for a new computer or corrupted HDD. Props to [jenius](https://github.com/
 ### Settings - User
 
     {
+      "font_size": 14.0,
       "tab_size": 2,
       "translate_tabs_to_spaces": true
     }
@@ -24,6 +25,7 @@ Setup for a new computer or corrupted HDD. Props to [jenius](https://github.com/
 
 ### Packages
 
+* Dayle Rees Color Schemes - apply Laravel theme
 * Alignment
 * Emmet
-* Dayle Rees Themes - apply Laravel theme
+* Sass
