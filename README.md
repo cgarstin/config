@@ -1,13 +1,12 @@
 Configuration
 ======
 
-Setup for a new computer or corrupted HDD! Props to [this guy](https://github.com/jenius/config) and [this guy](https://github.com/samjbmason/config) for the idea.
+Setup for a new computer or corrupted HDD. Props to [jenius](https://github.com/jenius/config) and [samjbmason](https://github.com/samjbmason/config) for the idea.
 
 ## Sublime Text
 
 ### Appearance
 
-* Dayle Rees Laravel theme
 * [Custom icon](http://cl.ly/Lp3Q)
 
 ### Settings - User
@@ -22,3 +21,9 @@ Setup for a new computer or corrupted HDD! Props to [this guy](https://github.co
     [
       { "keys": ["super+v"], "command": "paste_and_indent" }
     ]
+
+### Packages
+
+* Alignment
+* Emmet
+* Dayle Rees Themes - apply Laravel theme
