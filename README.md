@@ -35,6 +35,7 @@ Setup for a new computer or corrupted HDD. Props to [jenius](https://github.com/
 * Install RVM -> Ruby
 * Install Homebrew
 * Install Git
+* [Install composer globally](http://getcomposer.org/doc/00-intro.md#globally)
 * Install Sass -> Bourbon & Compass
 
 ## Sublime Text
