@@ -38,6 +38,13 @@ Setup for a new computer or corrupted HDD. Props to [jenius](https://github.com/
 * [Install composer globally](http://getcomposer.org/doc/00-intro.md#globally)
 * Install Sass -> Bourbon & Compass
 
+
+## Homebrew
+
+* mariadb
+* php54
+* php54-mcrypt
+
 ## Sublime Text
 
 ### Appearance
