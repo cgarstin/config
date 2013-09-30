@@ -27,16 +27,23 @@ Setup for a new computer or corrupted HDD. Props to [jenius](https://github.com/
 * 1Password
 * VirtualHostX
 * SourceTree
+* Node
 
 ## Terminal
 
+### Appearance
+
 * Switch to Pro theme
-* Install Xcode Command Line Tools
-* Install RVM -> Ruby
-* Install Homebrew
-* Install Git
-* [Install composer globally](http://getcomposer.org/doc/00-intro.md#globally)
-* Install Sass -> Bourbon & Compass
+* Turn on font aliasing
+
+### Downloads
+
+* Xcode Command Line Tools
+* RVM -> Ruby
+* Homebrew
+* Git
+* [composer global](http://getcomposer.org/doc/00-intro.md#globally)
+* Sass -> Bourbon & Compass
 
 
 ## Homebrew
@@ -69,5 +76,6 @@ Setup for a new computer or corrupted HDD. Props to [jenius](https://github.com/
 
 * Dayle Rees Color Schemes - apply Laravel theme
 * Alignment
+* AdvancedNewFile
 * Emmet
 * Sass
