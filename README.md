@@ -13,15 +13,10 @@ Setup for a new computer or corrupted HDD. Props to [jenius](https://github.com/
 
 * Allow applications downloaded from: Anywhere
 
-## App Store Installs
-
-* LittleIpsum
-
 ## Installs
 
 * Google Chrome
 * Sublime Text
-* CodeKit
 * Sequel Pro
 * ImageOptim
 * 1Password
