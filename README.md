@@ -37,14 +37,16 @@ Setup for a new computer or corrupted HDD. Props to [jenius](https://github.com/
 * Xcode Command Line Tools
 * [rvm](http://rvm.io)
 * [Homebrew](http://brew.sh)
-* Git
-* [composer global](http://getcomposer.org/doc/00-intro.md#globally)
+* git
+* [composer](http://getcomposer.org/doc/00-intro.md#globally)
 
 ### Gems
 
 * sass
 * bourbon
 * compass
+* rake
+* bundler
 
 ### Homebrew
 
