@@ -22,6 +22,7 @@ Setup for a new computer or corrupted HDD. Props to [jenius](https://github.com/
 * [ImageOptim](http://imageoptim.com)
 * [1Password](https://agilebits.com/onepassword)
 * [VirtualHostX](http://clickontyler.com/virtualhostx)
+* [Transmit](http://panic.com/transmit)
 * [SourceTree](http://www.sourcetreeapp.com)
 * [Node.js](http://nodejs.org)
 
