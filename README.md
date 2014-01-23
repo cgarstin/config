@@ -15,14 +15,15 @@ Setup for a new computer or corrupted HDD. Props to [jenius](https://github.com/
 
 ## Installs
 
-* Google Chrome
-* Sublime Text
-* Sequel Pro
-* ImageOptim
-* 1Password
-* VirtualHostX
-* SourceTree
-* Node
+* [Google Chrome](https://www.google.com/chrome)
+* [Sublime Text](http://www.sublimetext.com)
+* [SizeUp](http://www.irradiatedsoftware.com/sizeup)
+* [Sequel Pro](http://www.sequelpro.com)
+* [ImageOptim](http://imageoptim.com)
+* [1Password](https://agilebits.com/onepassword)
+* [VirtualHostX](http://clickontyler.com/virtualhostx)
+* [SourceTree](http://www.sourcetreeapp.com)
+* [Node.js](http://nodejs.org)
 
 ## Terminal
 
@@ -31,17 +32,21 @@ Setup for a new computer or corrupted HDD. Props to [jenius](https://github.com/
 * Switch to Pro theme
 * Turn on font aliasing
 
-### Downloads
+### Command Line Installs
 
 * Xcode Command Line Tools
-* RVM -> Ruby
-* Homebrew
+* [rvm](http://rvm.io)
+* [Homebrew](http://brew.sh)
 * Git
 * [composer global](http://getcomposer.org/doc/00-intro.md#globally)
-* Sass -> Bourbon & Compass
 
+### Gems
 
-## Homebrew
+* sass
+* bourbon
+* compass
+
+### Homebrew
 
 * mariadb
 * php54
@@ -73,4 +78,7 @@ Setup for a new computer or corrupted HDD. Props to [jenius](https://github.com/
 * Alignment
 * AdvancedNewFile
 * Emmet
+* Git
+* LiveStyle
 * Sass
+* sublimelint
