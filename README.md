@@ -66,7 +66,8 @@ Setup for a new computer or corrupted HDD. Props to [jenius](https://github.com/
     {
       "font_size": 14.0,
       "tab_size": 2,
-      "translate_tabs_to_spaces": true
+      "translate_tabs_to_spaces": true,
+      "bold_folder_labels": true
     }
 
 ### Key Bindings - User
@@ -77,7 +78,7 @@ Setup for a new computer or corrupted HDD. Props to [jenius](https://github.com/
 
 ### Packages
 
-* Dayle Rees Color Schemes - apply Laravel theme
+* Spacegray/base16-ocean.dark
 * Alignment
 * AdvancedNewFile
 * Emmet
