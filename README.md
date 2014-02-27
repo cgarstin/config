@@ -15,7 +15,7 @@ Setup for a new computer or corrupted HDD. Props to [jenius](https://github.com/
 
 ## Installs
 
-* [Google Chrome](https://www.google.com/chrome)* 
+* [Google Chrome](https://www.google.com/chrome)
 * [Sublime Text](http://www.sublimetext.com)
 * [iTerm2](http://www.iterm2.com)
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup)
@@ -28,7 +28,7 @@ Setup for a new computer or corrupted HDD. Props to [jenius](https://github.com/
 * [VirtualBox](https://www.virtualbox.org)
 * [Node.js](http://nodejs.org)
 
-## Chrome Plugins
+## Google Chrome
 
 * YSlow
 * Web Developer
