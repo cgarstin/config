@@ -30,6 +30,12 @@ Setup for a new computer or corrupted HDD. Props to [jenius](https://github.com/
 
 ## Google Chrome
 
+### Preferences
+
+* On startup - http://mail.google.com
+
+### Plugins
+
 * YSlow
 * Web Developer
 * LiveReload
