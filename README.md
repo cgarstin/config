@@ -15,18 +15,26 @@ Setup for a new computer or corrupted HDD. Props to [jenius](https://github.com/
 
 ## Installs
 
-* [Google Chrome](https://www.google.com/chrome)
+* [Google Chrome](https://www.google.com/chrome)* 
 * [Sublime Text](http://www.sublimetext.com)
+* [iTerm2](http://www.iterm2.com)
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup)
 * [Sequel Pro](http://www.sequelpro.com)
 * [ImageOptim](http://imageoptim.com)
 * [1Password](https://agilebits.com/onepassword)
 * [VirtualHostX](http://clickontyler.com/virtualhostx)
 * [Transmit](http://panic.com/transmit)
-* [SourceTree](http://www.sourcetreeapp.com)
+* [Vagrant](http://www.vagrantup.com)
+* [VirtualBox](https://www.virtualbox.org)
 * [Node.js](http://nodejs.org)
 
-## Terminal
+## Chrome Plugins
+
+* YSlow
+* Web Developer
+* LiveReload
+
+## iTerm
 
 ### Appearance
 
@@ -64,10 +72,14 @@ Setup for a new computer or corrupted HDD. Props to [jenius](https://github.com/
 ### Settings - User
 
     {
-      "font_size": 14.0,
-      "tab_size": 2,
-      "translate_tabs_to_spaces": true,
-      "bold_folder_labels": true
+	  "bold_folder_labels": true,
+	  "font_face": "Source Code Pro",
+	  "font_size": 14.0,
+	  "line_padding_bottom": 1,
+	  "line_padding_top": 1,
+	  "caret_style": "phase",
+	  "tab_size": 2,
+	  "translate_tabs_to_spaces": true
     }
 
 ### Key Bindings - User
