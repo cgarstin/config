@@ -1,7 +1,7 @@
 Configuration
 ======
 
-Setup for a new computer or corrupted HDD. Props to [jenius](https://github.com/jenius/config) and [samjbmason](https://github.com/samjbmason/config) for the idea.
+Setup for a new computer or corrupted HDD.
 
 ## System Config
 
