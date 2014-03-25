@@ -28,12 +28,10 @@ Setup for a new computer or corrupted HDD.
 * [Kaleidoscope](http://www.kaleidoscopeapp.com/)
 * [Parallels](http://www.parallels.com/products/desktop/)
 * [Xcode, with iOS Simulator](https://developer.apple.com/xcode/)
+* [Moom](http://manytricks.com/moom/)
+* [nosleep](https://code.google.com/p/macosx-nosleep-extension/)
 
 ## Google Chrome
-
-### Preferences
-
-* On startup - http://mail.google.com
 
 ### Plugins
 
@@ -46,6 +44,7 @@ Setup for a new computer or corrupted HDD.
 
 * Switch to Pro theme
 * Turn on font aliasing
+
 ### Inspector settings
 
 * FileSystem inspection
